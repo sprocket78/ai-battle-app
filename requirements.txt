@@ -1,5 +1,2 @@
-echo "requests==2.28.1" > requirements.txt
-echo "tenacity==8.2.3" >> requirements.txt
-git add requirements.txt
-git commit -m "Add requirements.txt"
-git push
+echo requests==2.28.1 > requirements.txt
+echo tenacity==8.2.3 >> requirements.txt
